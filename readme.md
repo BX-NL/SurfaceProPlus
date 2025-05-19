@@ -1,4 +1,4 @@
-# Surface-Pro-Plus
+# SurfaceProPlus
 
 Let Surface Great Again
 
