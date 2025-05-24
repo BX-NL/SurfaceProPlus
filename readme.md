@@ -1,8 +1,12 @@
 # SurfaceProPlus
 
-Let Surface Great Again
+让Surface再次伟大！
 
-A toolbox for surface.
+Let Surface Great Again!
+
+给Surface做的一个工具箱。
+
+A toolbox for Surface.
 
 Base on:
 
