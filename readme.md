@@ -8,6 +8,8 @@ Let Surface Great Again!
 
 A toolbox for Surface.
 
+包含了一堆有用或者没用的小功能。
+
 Base on:
 
 >Python, Shell, PyQT, Kivy
