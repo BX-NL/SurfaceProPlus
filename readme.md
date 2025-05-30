@@ -20,8 +20,12 @@ Base on:
     仪表盘、屏幕手柄、OBS网页推流、结束进程（用于Surface Book）
     Dashboard, Screen Gamepad, OBS To Website, Process Killer(Work for Surface Book)
 
-    快捷翻译，有[TinyTranslator]在，需要研究一下笔怎么用。
-    Quick translation, There is [TinyTranslator], I need to study how to use the surface pen.
+    快捷翻译
+    Quick translation
+
+    有[TinyTranslator]在，需要研究一下笔怎么用。
+    There is [TinyTranslator], I need to study how to use the surface pen.
+    
     把main包成接口，直接运行时执行，快捷键模式开另一个。
     Build main into API, Run as run, run another to listen hotkey.
 
