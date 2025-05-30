@@ -10,6 +10,8 @@ A toolbox for Surface.
 
 包含了一堆有用或者没用的小功能。
 
+Include some useful or unuseful little features.
+
 Base on:
 
 >Python, Shell, PyQT, Kivy
