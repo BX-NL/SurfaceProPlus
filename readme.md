@@ -17,11 +17,16 @@ Base on:
 >Python, Shell, PyQT, Kivy
 
 # Todo
-    仪表盘、屏幕手柄、OBS网页推流、结束进程（用于Surface Book）
-    Dashboard, Screen Gamepad, OBS To Website, Process Killer(Work for Surface Book)
+    1.仪表盘
+    1.Dashboard
 
-    快捷翻译
-    Quick translation
+    win32API
+
+    2.屏幕手柄、OBS网页推流、结束进程（用于Surface Book）
+    2.Screen Gamepad, OBS To Website, Process Killer(Work for Surface Book)
+
+    3.快捷翻译
+    3.Quick translation
 
     有[TinyTranslator]在，需要研究一下笔怎么用。
     There is [TinyTranslator], I need to study how to use the surface pen.
