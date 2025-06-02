@@ -22,11 +22,16 @@ Base on:
 
     win32API
 
-    2.屏幕手柄、OBS网页推流、结束进程（用于Surface Book）
-    2.Screen Gamepad, OBS To Website, Process Killer(Work for Surface Book)
+    2.屏幕手柄
+    2.Screen Gamepad
 
-    3.快捷翻译
-    3.Quick translation
+    Kivy
+
+    3.OBS网页推流、结束进程（用于Surface Book）
+    3.OBS To Website, Process Killer(Work for Surface Book)
+
+    5.快捷翻译
+    5.Quick translation
 
     有[TinyTranslator]在，需要研究一下笔怎么用。
     There is [TinyTranslator], I need to study how to use the surface pen.
