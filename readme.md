@@ -27,8 +27,11 @@ Base on:
 
     Kivy
 
-    3.OBS网页推流、结束进程（用于Surface Book）
-    3.OBS To Website, Process Killer(Work for Surface Book)
+    3.OBS网页推流
+    3.OBS To Website
+
+    4.结束进程（用于Surface Book）
+    4.Process Killer(Work for Surface Book)
 
     5.快捷翻译
     5.Quick translation
