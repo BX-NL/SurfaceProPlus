@@ -17,29 +17,30 @@ Base on:
 >Python, Shell, PyQT, Kivy
 
 # Todo
-    1.仪表盘
-    1.Dashboard
 
-    win32API
+1.仪表盘
+1.Dashboard
 
-    2.屏幕手柄
-    2.Screen Gamepad
+win32API
 
-    Kivy
+2.屏幕手柄
+2.Screen Gamepad
 
-    3.OBS网页推流
-    3.OBS To Website
+Kivy
 
-    4.结束进程（用于Surface Book）
-    4.Process Killer(Work for Surface Book)
+3.OBS网页推流
+3.OBS To Website
 
-    5.快捷翻译
-    5.Quick translation
+4.结束进程（用于Surface Book）
+4.Process Killer(Work for Surface Book)
 
-    有[TinyTranslator]在，需要研究一下笔怎么用。
-    There is [TinyTranslator], I need to study how to use the surface pen.
-    
-    把main包成接口，直接运行时执行，快捷键模式开另一个。
-    Build main into API, Run as run, run another to listen hotkey.
+5.快捷翻译
+5.Quick translation
+
+有[TinyTranslator]在，需要研究一下笔怎么用。
+There is [TinyTranslator], I need to study how to use the surface pen.
+
+把main包成接口，直接运行时执行，快捷键模式开另一个。
+Build main into API, Run as run, run another to listen hotkey.
 
 # Link
