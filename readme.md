@@ -12,16 +12,14 @@ A toolbox for Surface.
 
 Include some useful or unuseful little features.
 
-Base on:
-
->Python, Shell, PyQT, Kivy
+>Base on: Python, Shell, PyQT, Kivy
 
 # Todo
 
 1.仪表盘
 1.Dashboard
 
-win32API
+>Base on: Python, win32API
 
 2.屏幕手柄
 2.Screen Gamepad
