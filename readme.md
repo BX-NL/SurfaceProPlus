@@ -24,7 +24,7 @@ Include some useful or unuseful little features.
 2.屏幕手柄
 2.Screen Gamepad
 
-Kivy
+>Base on: Python, Kivy
 
 3.OBS网页推流
 3.OBS To Website
