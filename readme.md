@@ -37,10 +37,10 @@ Include some useful or unuseful little features.
 5.快捷翻译
 5.Quick translation
 
-有[TinyTranslator](https://github.com/BX-NL/TinyTranslator)在，需要研究一下笔怎么用。
-There is [TinyTranslator](https://github.com/BX-NL/TinyTranslator), I need to study how to use the surface pen.
+>有[TinyTranslator](https://github.com/BX-NL/TinyTranslator)在，需要研究一下笔怎么用。
+>There is [TinyTranslator](https://github.com/BX-NL/TinyTranslator), I need to study how to use the surface pen.
 
-把main包成接口，直接运行时执行，快捷键模式开另一个。
-Build main into API, Run as run, run another to listen hotkey.
+>把main包成接口，直接运行时执行，快捷键模式开另一个。
+>Build main into API, Run as run, run another to listen hotkey.
 
 # Link
