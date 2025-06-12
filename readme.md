@@ -19,7 +19,7 @@ Include some useful or unuseful little features.
 1.仪表盘
 1.Dashboard
 
->Base on: Python, win32API
+>Base on: Python, win32API, PyQt
 
 2.屏幕手柄
 2.Screen Gamepad
