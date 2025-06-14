@@ -19,6 +19,8 @@ Include some useful or unuseful little features.
 1.仪表盘
 1.Dashboard
 
+显示设备信息，显示性能占用等
+
 >Base on: Python, win32API, PyQt
 
 2.屏幕手柄
