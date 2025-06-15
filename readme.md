@@ -31,7 +31,7 @@ Include some useful or unuseful little features.
 3.OBS网页推流
 3.OBS To Website
 
->Base on: Python, OBS, HTML, JavaScript, CSS
+>Base on: Python, FastAPI, OBS, HTML, JavaScript, CSS
 
 4.结束进程（用于Surface Book）
 4.Process Killer(Work for Surface Book)
