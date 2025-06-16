@@ -36,6 +36,8 @@ Include some useful or unuseful little features.
 4.结束进程（用于Surface Book）
 4.Process Killer(Work for Surface Book)
 
+~~可能用不上，先留个坑位~~
+
 >Base on: Python, win32API
 
 5.快捷翻译
