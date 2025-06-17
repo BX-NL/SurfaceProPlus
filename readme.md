@@ -31,6 +31,8 @@ Include some useful or unuseful little features.
 3.OBS网页推流
 3.OBS To Website
 
+OBS采集屏幕画面推流到网页中
+
 >Base on: Python, FastAPI, OBS, HTML, JavaScript, CSS
 
 4.结束进程（用于Surface Book）
