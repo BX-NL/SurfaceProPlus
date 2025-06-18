@@ -33,7 +33,7 @@ Include some useful or unuseful little features.
 
 OBS采集屏幕画面推流到网页中
 
->Base on: Python, FastAPI, OBS, HTML, JavaScript, CSS
+>Base on: Python, FastAPI, OBS, HTML, JavaScript, CSS, M3U8?
 
 4.结束进程（用于Surface Book）
 4.Process Killer(Work for Surface Book)
