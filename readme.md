@@ -51,4 +51,6 @@ OBS采集屏幕画面推流到网页中
 >把main包成接口，直接运行时执行，快捷键模式开另一个。
 >Build main into API, Run as run, run another to listen hotkey.
 
+>Base on: Python, Shell
+
 # Link
