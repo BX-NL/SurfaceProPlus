@@ -54,3 +54,5 @@ OBS采集屏幕画面推流到网页中
 >Base on: Python, Shell
 
 # Link
+
+[TinyTranslator](https://github.com/BX-NL/TinyTranslator)
