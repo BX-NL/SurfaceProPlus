@@ -14,6 +14,8 @@ Include some useful or unuseful little features.
 
 >Base on: Python, Shell, PyQT, Kivy, win32API
 
+---
+
 # Todo
 
 1.仪表盘
@@ -52,6 +54,8 @@ OBS采集屏幕画面推流到网页中
 >Build main into API, Run as run, run another to listen hotkey.
 
 >Base on: Python, Shell
+
+---
 
 # Link
 
