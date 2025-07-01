@@ -2,7 +2,7 @@
 
 让Surface再次伟大！
 
-Let Surface Great Again!
+Make Surface Great Again!
 
 给Surface做的一个工具箱。
 
