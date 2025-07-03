@@ -8,9 +8,9 @@ Make Surface Great Again!
 
 A toolbox for Surface.
 
-包含了一堆有用或者没用的小功能。
+包含了一堆有用或者没用的小功能和工具。
 
-Include some useful or unuseful little features.
+Include some useful or unuseful little features and tools.
 
 >Base on: Python, Shell, PyQT, Kivy, win32API
 
