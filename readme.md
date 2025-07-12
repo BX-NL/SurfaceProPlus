@@ -41,6 +41,7 @@ OBS采集屏幕画面推流到网页中
 4.Process Killer(Work for Surface Book)
 
 ~~可能用不上，先留个坑位~~
+~~Maybe not useful, new a package to hold on.~~
 
 >Base on: Python, win32API
 
