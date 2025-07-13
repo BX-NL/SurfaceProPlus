@@ -22,6 +22,7 @@ Include some useful or unuseful little features and tools.
 1.Dashboard
 
 显示设备信息，显示性能占用等
+Show infos of Surface, CPU used, memory used and etc.
 
 >Base on: Python, win32API, PyQt
 
