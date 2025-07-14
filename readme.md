@@ -29,7 +29,9 @@ Show infos of Surface, CPU used, memory used and etc.
 2.屏幕手柄
 2.Screen Gamepad
 
->Base on: Python, Kivy, vgamepad
+屏幕触控手柄，模拟XBOX手柄
+
+>Base on: Python, Kivy, vgamepad, Xinput
 
 3.OBS网页推流
 3.OBS To Website
