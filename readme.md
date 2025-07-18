@@ -1,5 +1,7 @@
 # SurfaceProPlus
 
+## INFO
+
 让Surface再次伟大！
 
 Make Surface Great Again!
@@ -16,7 +18,7 @@ Include some useful or unuseful little features and tools.
 
 ---
 
-# Todo
+## Todo
 
 1.仪表盘
 1.Dashboard
@@ -63,7 +65,7 @@ Use OBS to catch screen and push to website.
 
 ---
 
-# Link
+## Link
 
 [SurfaceProPlus](https://github.com/BX-NL/SurfaceProPlus)
 [TinyTranslator](https://github.com/BX-NL/TinyTranslator)
