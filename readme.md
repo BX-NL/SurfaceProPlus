@@ -24,6 +24,7 @@ Include some useful or unuseful little features and tools.
 1.Dashboard
 
 显示设备信息，显示性能占用等
+
 Show infos of Surface, CPU used, memory used and etc.
 
 >Base on: Python, win32API, PyQt
@@ -32,6 +33,7 @@ Show infos of Surface, CPU used, memory used and etc.
 2.Screen Gamepad
 
 屏幕触控手柄，模拟XBOX手柄。
+
 Screen touch gamepad, simulate a Xbox Controler.
 
 >Base on: Python, Kivy, vgamepad, Xinput
@@ -40,6 +42,7 @@ Screen touch gamepad, simulate a Xbox Controler.
 3.OBS To Website
 
 OBS采集屏幕画面推流到网页中
+
 Use OBS to catch screen and push to website.
 
 >Base on: Python, FastAPI, OBS, HTML, JavaScript, CSS, M3U8?
@@ -48,6 +51,7 @@ Use OBS to catch screen and push to website.
 4.Process Killer(Work for Surface Book)
 
 ~~可能用不上，先留个坑位~~
+
 ~~Maybe not useful, new a package to hold on.~~
 
 >Base on: Python, win32API
@@ -56,9 +60,11 @@ Use OBS to catch screen and push to website.
 5.Quick translation
 
 >有[TinyTranslator](https://github.com/BX-NL/TinyTranslator)在，需要研究一下笔怎么用。
+
 >There is [TinyTranslator](https://github.com/BX-NL/TinyTranslator), I need to study how to use the surface pen.
 
 >把main包成接口，直接运行时执行，快捷键模式开另一个。
+
 >Build main into API, Run as run, run another to listen hotkey.
 
 >Base on: Python, Shell
