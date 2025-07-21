@@ -56,7 +56,7 @@ Use OBS to catch screen and push to website.
 
 ~~可能用不上，先留个坑位~~
 
-~~Maybe not useful, new a package to hold on.~~
+~~Maybe useless, new a package to hold on.~~
 
 >Base on: Python, win32API
 
