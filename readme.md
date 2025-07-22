@@ -64,7 +64,7 @@ Use OBS to catch screen and push to website.
 
 5.Quick translation
 
->有[TinyTranslator](https://github.com/BX-NL/TinyTranslator)在，需要研究一下笔怎么用。
+>有[TinyTranslator](https://github.com/BX-NL/TinyTranslator)在，需要研究一下触控笔怎么用。
 
 >There is [TinyTranslator](https://github.com/BX-NL/TinyTranslator), I need to study how to use the surface pen.
 
