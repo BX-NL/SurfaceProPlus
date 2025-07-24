@@ -1,6 +1,6 @@
 # SurfaceProPlus
 
-## INFO
+## 介绍 Info
 
 让Surface再次伟大！
 
