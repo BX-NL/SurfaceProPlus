@@ -58,6 +58,8 @@ Use OBS to catch screen and push to website.
 
 ~~Maybe useless, new a package to hold on first.~~
 
+结束占用了独显的进程，便于分离或者别的什么需求。
+
 >Base on: Python, win32API
 
 5.快捷翻译
