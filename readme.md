@@ -68,6 +68,8 @@ Use OBS to catch screen and push to website.
 
 快捷键，自动复制选中文本并翻译，使用windows通知。
 
+Use hotkey to auto copy text that you had select, auto translation and send a message form Windows.
+
 >有[TinyTranslator](https://github.com/BX-NL/TinyTranslator)在，需要研究一下触控笔怎么用。
 
 >There is [TinyTranslator](https://github.com/BX-NL/TinyTranslator), I need to study how to use the surface pen.
