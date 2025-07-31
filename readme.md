@@ -66,7 +66,7 @@ Use OBS to catch screen and push to website.
 
 5.Quick translation
 
-快捷键，自动复制选中文本并翻译，使用windows通知。
+使用快捷键自动复制选中文本并翻译，使用windows通知。
 
 Use hotkey to auto copy text which select, auto translation and send a Windows notice.
 
