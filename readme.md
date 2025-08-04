@@ -60,7 +60,7 @@ Use OBS to catch screen and push to website.
 
 结束占用了独显的进程，便于分离或者别的什么需求。
 
-Kill process that using discrete graphics card, easy to remove the screen.
+Kill process that using discrete graphics card, easy to remove the screen or other things.
 
 >Base on: Python, win32API
 
