@@ -68,7 +68,7 @@ Kill process that using discrete graphics card, easy to separate the screen or o
 
 5.Quick translation
 
-使用快捷键自动复制选中文本并翻译，使用windows通知。
+使用快捷键自动复制选中文本并翻译，使用Windows发送通知并将结果塞到剪贴板里。
 
 Use hotkey to automatically copy text which select and translation, then send a Windows notice.
 
