@@ -70,7 +70,7 @@ Kill process that using discrete graphics card, easy to separate the screen or o
 
 使用快捷键自动复制选中文本并翻译，使用Windows发送通知并将结果塞到剪贴板里。
 
-Use hotkey to automatically copy text which select and translation, then send a Windows notice.
+Use hotkey to automatically copy text which select and translation, then send a Windows notice and copy the result to the clipboard.
 
 >有[TinyTranslator](https://github.com/BX-NL/TinyTranslator)在，需要研究一下触控笔怎么用。
 
