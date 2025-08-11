@@ -78,7 +78,7 @@ Use hotkey to automatically copy text which select and translation, then send a 
 
 >把main包成接口，直接运行时执行，快捷键模式开另一个。
 
->Build main into API, Run as run, run another to listen hotkey.
+>Build main into API, run when run, run another program to listen hotkey.
 
 >Base on: Python, Shell
 
