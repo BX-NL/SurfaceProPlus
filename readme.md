@@ -46,7 +46,7 @@ Screen touch gamepad, simulate a Xbox Controler.
 
 OBS采集屏幕画面推流到网页中
 
-Use OBS to catch screen and push to website.
+Use OBS to capture screen and push to website.
 
 >Base on: Python, FastAPI, OBS, HTML, JavaScript, CSS, M3U8?
 
