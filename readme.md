@@ -82,6 +82,8 @@ Use hotkey to automatically copy text which select and translation, then send a 
 
 >Base on: Python, Shell
 
+6.别的乱七八糟的东西
+
 ---
 
 ## Link
