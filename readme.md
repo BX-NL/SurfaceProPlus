@@ -36,7 +36,7 @@ Show infos of Surface, CPU used, memory used and etc.
 
 屏幕触控手柄，模拟XBOX手柄。
 
-Screen touch gamepad, simulate a Xbox Controler.
+Screen touch gamepad, simulate a XBOX Controler.
 
 >Base on: Python, Kivy, vgamepad, Xinput
 
