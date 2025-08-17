@@ -84,7 +84,7 @@ Use hotkey to automatically copy text which select and translation, then send a 
 
 0.别的乱七八糟的东西
 
-0.Other
+0.Others
 
 ---
 
