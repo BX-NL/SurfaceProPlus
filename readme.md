@@ -82,7 +82,7 @@ Use hotkey to automatically copy text which select and translation, then send a 
 
 >Base on: Python, Shell
 
-0.别的乱七八糟的东西
+0.其它乱七八糟的东西
 
 0.Others
 
