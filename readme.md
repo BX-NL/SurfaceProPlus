@@ -28,6 +28,8 @@ Include some useful or unuseful little features and tools.
 
 Show infos of Surface, CPU used, memory used and etc.
 
+可能有现成的，尝试接入。
+
 >Base on: Python, win32API, PyQt
 
 2.屏幕手柄
