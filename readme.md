@@ -14,6 +14,8 @@ A toolbox for Surface.
 
 Include some useful or unuseful little features and tools.
 
+可自定义添加功能。
+
 >Base on: Python, Shell, PyQT, Kivy, win32API
 
 ---
