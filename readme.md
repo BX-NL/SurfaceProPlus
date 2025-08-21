@@ -32,6 +32,8 @@ Show infos of Surface, CPU used, memory used and etc.
 
 可能有现成的，尝试接入。
 
+Maybe there is some API, try to connect.
+
 >Base on: Python, win32API, PyQt
 
 2.屏幕手柄
