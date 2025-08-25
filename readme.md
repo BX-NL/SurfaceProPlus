@@ -32,7 +32,7 @@ Allow add other features and tools.
 
 Show infos of Surface, CPU used, memory used and etc.
 
-可能有现成的，尝试接入。
+可能有现成的模块，尝试接入。
 
 Maybe there is some packages, try to connect it.
 
