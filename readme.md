@@ -44,7 +44,7 @@ Maybe there are some packages, try to connect it.
 
 屏幕触控手柄，模拟XBOX手柄。
 
-Screen touch gamepad, simulate a XBOX Controler.
+Touch screen gamepad, simulate a XBOX Controler.
 
 >Base on: Python, Kivy, vgamepad, Xinput
 
