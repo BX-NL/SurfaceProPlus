@@ -94,7 +94,7 @@ Use hotkey to automatically copy text which select and translation, then send a 
 
 0.Others
 
-考虑塞一点可能用得上的工具。
+考虑塞一点可能用得上的工具软件。
 
 ---
 
