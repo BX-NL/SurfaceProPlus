@@ -92,7 +92,7 @@ Use hotkey to automatically copy text which select and translation, then send a 
 
 0.其它乱七八糟的东西
 
-0.Others
+0.Other things
 
 塞一点可能用得上的工具软件，以及自定义功能。
 
