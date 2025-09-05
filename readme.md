@@ -96,7 +96,7 @@ Use hotkey to automatically copy text which select and translation, then send a 
 
 塞一点可能用得上的工具软件，以及自定义功能。
 
-Add some probably useful tools, and custom features.
+Add some probably useful tools and softwares, with custom features.
 
 ---
 
