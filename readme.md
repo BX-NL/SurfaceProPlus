@@ -16,7 +16,7 @@ Include some useful or unuseful little features and tools.
 
 可自定义添加功能。
 
-Allow add other features and tools.
+Allow add features and tools.
 
 >Base on: Python, Shell, PyQT, Kivy, win32API
 
