@@ -14,7 +14,7 @@ A toolbox for Surface.
 
 Include some useful or unuseful little features and tools.
 
-可自定义添加功能。
+可自定义添加功能和工具。
 
 Allow add features and tools.
 
