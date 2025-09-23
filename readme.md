@@ -82,7 +82,7 @@ Use hotkey to automatically copy text which is select and translation to target 
 
 >有[TinyTranslator](https://github.com/BX-NL/TinyTranslator)在，需要研究一下触控笔怎么接入使用。
 
->There is [TinyTranslator](https://github.com/BX-NL/TinyTranslator), I need to try how to use the surface pen.
+>There is [TinyTranslator](https://github.com/BX-NL/TinyTranslator), I need to try to use the surface pen.
 
 >把main包成接口，直接运行时执行一遍，开另一个当快捷键模式。
 
