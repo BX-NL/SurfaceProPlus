@@ -84,7 +84,7 @@ Use hotkey to automatically copy text which is select and translation to target 
 
 >There is [TinyTranslator](https://github.com/BX-NL/TinyTranslator), I need to try to use the surface pen.
 
->把main包成接口，直接运行时执行一遍，开另一个当快捷键模式。
+>把现有的main包成接口，直接运行时执行一遍，开另一个当快捷键模式。
 
 >Build main into API, run one time when run, run another program to listen hotkey mode.
 
