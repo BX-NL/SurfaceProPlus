@@ -16,7 +16,7 @@ Include some useful or unuseful little features and tools.
 
 可自定义添加功能和工具。
 
-Allow user add features and tools by customer.
+Allow user to add features and tools by customer.
 
 >Base on: Python, Shell, PyQT, Kivy, win32API
 
