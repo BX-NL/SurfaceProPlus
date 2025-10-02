@@ -18,7 +18,7 @@ Include some useful or unuseful little features and tools.
 
 Allow user to add custom features and tools.
 
->Base on: Python, Shell, PyQT, Kivy, win32API
+>Base on: Python, Shell, Kivy, win32API, PyQT
 
 ---
 
