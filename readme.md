@@ -100,7 +100,7 @@ Add some probably useful tools, softwares, and custom features.
 
 >Mykeymap, 触控手势
 
->接入官方的Surface
+>尝试接入官方的Surface程序
 
 ---
 
