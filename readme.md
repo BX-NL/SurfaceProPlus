@@ -98,7 +98,9 @@ Use hotkey to automatically copy text which is select and translation to target 
 
 Add some probably useful tools, softwares, and custom features.
 
->Mykeymap, 触控手势
+>Mykeymap
+
+>触控手势
 
 >尝试接入官方的Surface程序(连到仪表盘?)
 
