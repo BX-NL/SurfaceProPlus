@@ -100,6 +100,8 @@ Add some probably useful tools, softwares, and custom features.
 
 友情链接
 
+Friendly Link
+
 >Mykeymap
 
 >屏幕触控手势
