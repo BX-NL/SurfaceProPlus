@@ -102,6 +102,8 @@ Add some probably useful tools, softwares, and custom features.
 
 好用的软件
 
+Easy-to-use software
+
 >Mykeymap
 
 >屏幕触控手势
