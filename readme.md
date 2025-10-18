@@ -120,7 +120,7 @@ Friendly Link
 
 ---
 
-## Link
+## 链接 Link
 
 [SurfaceProPlus](https://github.com/BX-NL/SurfaceProPlus)
 [TinyTranslator](https://github.com/BX-NL/TinyTranslator)
