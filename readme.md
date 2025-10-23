@@ -98,9 +98,9 @@ Use hotkey to automatically copy text which is select and translation to target 
 
 Little tools
 
-塞一点可能用得上的工具软件，以及自定义功能。
+>塞一点可能用得上的工具软件，以及自定义功能。
 
-Add some probably useful tools, softwares, and custom features.
+>Add some probably useful tools, softwares, and custom features.
 
 好用的软件
 
