@@ -102,9 +102,7 @@ Little tools
 
 >Add some probably useful tools, softwares, and custom features.
 
-好用的软件
-
-Easy-to-use software
+好用的软件 Easy-to-use software
 
 >Mykeymap
 
