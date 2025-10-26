@@ -108,9 +108,7 @@ Use hotkey to automatically copy text which is select and translation to target 
 
 >尝试接入官方的Surface程序(连到仪表盘?)
 
-友情链接
-
-Friendly Link
+友情链接 Friendly Link
 
 >
 
