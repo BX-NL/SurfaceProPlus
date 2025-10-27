@@ -110,7 +110,7 @@ Use hotkey to automatically copy text which is select and translation to target 
 
 友情链接 Friendly Link
 
->
+>[Example](https://*.*)
 
 ---
 
