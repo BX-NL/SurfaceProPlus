@@ -118,6 +118,8 @@ Use hotkey to automatically copy text which is select and translation to target 
 
 ## 链接 Link
 
+[]()
+
 [SurfaceProPlus](https://github.com/BX-NL/SurfaceProPlus)
 [TinyTranslator](https://github.com/BX-NL/TinyTranslator)
 
