@@ -104,7 +104,7 @@ Use hotkey to automatically copy text which is select and translation to target 
 
 >Mykeymap
 
->GestureSign 屏幕触控手势
+>屏幕触控手势 GestureSign
 
 >尝试接入官方的Surface程序(连到仪表盘?)
 
