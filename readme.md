@@ -102,7 +102,7 @@ Use hotkey to automatically copy text which is select and translation to target 
 
 好用的软件 Easy-to-use software
 
->Mykeymap
+>键盘映射 Mykeymap
 
 >屏幕触控手势 GestureSign
 
