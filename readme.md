@@ -24,9 +24,7 @@ Allow user to add custom features and tools.
 
 ## 功能 Module
 
-1.仪表盘
-
-1.Dashboard
+**1.仪表盘 Dashboard**
 
 显示设备信息，显示性能占用等
 
