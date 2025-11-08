@@ -36,9 +36,7 @@ Maybe there were some packages, try to connect it.
 
 >Base on: Python, win32API, PyQt
 
-2.屏幕手柄
-
-2.Screen Gamepad
+**2.屏幕手柄 Screen Gamepad**
 
 屏幕触控手柄，模拟XBOX手柄。
 
