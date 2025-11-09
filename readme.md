@@ -44,9 +44,7 @@ Touch screen gamepad, to simulate a XBOX Controler.
 
 >Base on: Python, Kivy, vgamepad, Xinput
 
-3.OBS网页推流
-
-3.OBS To Website
+**3.OBS网页推流 OBS To Website**
 
 OBS采集屏幕画面推流到网页中
 
