@@ -66,9 +66,7 @@ Kill process which is using discrete graphics card, use to separate the screen o
 
 >Base on: Python, win32API
 
-5.快捷翻译
-
-5.Quick translation
+**5.快捷翻译 Quick translation**
 
 使用快捷键自动复制选中的文本并翻译为目标语言，发送Windows通知并将结果塞到剪贴板里。
 
