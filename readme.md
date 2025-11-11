@@ -52,9 +52,11 @@ Use OBS to capture the screen and push to website.
 
 >Base on: Python, FastAPI, OBS, HTML, JavaScript, CSS, M3U8?
 
-4.结束进程（用于Surface Book）
+**4.结束进程 Process Killer**
 
-4.Process Killer(Work for Surface Book)
+用于Surface Book
+
+Work for Surface Book
 
 ~~可能用不上，先留个坑位~~
 
