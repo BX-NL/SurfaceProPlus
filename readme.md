@@ -84,9 +84,7 @@ Use hotkey to automatically copy text which is select and translation to target 
 
 >Base on: Python, Shell, googletrans and etc.
 
-0.其它乱七八糟的东西
-
-0.Other things
+**0.其它乱七八糟的东西 Other things**
 
 小工具 Little tools
 
