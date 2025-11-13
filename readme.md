@@ -102,7 +102,7 @@ Use hotkey to automatically copy text which is select and translation to target 
 
 >Try to connect Surface from offical(connect to dashboard?)
 
-友情链接 Friendly Link
+**友情链接 Friendly Link**
 
 >[Example](https://*.*)
 
