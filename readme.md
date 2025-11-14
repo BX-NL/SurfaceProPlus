@@ -82,7 +82,7 @@ Use hotkey to automatically copy text which is select and translation to target 
 
 >Build the main into API, run one time when run, run another program to use listen hotkey mode.
 
->Base on: Python, Shell, googletrans and etc.
+>Base on: Python, Shell, googletrans and other translate tools
 
 **0.其它乱七八糟的东西 Other things**
 
