@@ -102,10 +102,6 @@ Use hotkey to automatically copy text which is select and translation to target 
 
 >Try to connect Surface from offical(connect to dashboard?)
 
-**友情链接 Friendly Link**
-
->[Example](https://*.*)
-
 ---
 
 ## 链接 Link
@@ -114,5 +110,11 @@ Use hotkey to automatically copy text which is select and translation to target 
 
 [SurfaceProPlus](https://github.com/BX-NL/SurfaceProPlus)
 [TinyTranslator](https://github.com/BX-NL/TinyTranslator)
+
+**友情链接 Friendly Link**
+
+>[Example](https://*.*)
+
+---
 
 ## 感谢 Thanks
