@@ -106,7 +106,7 @@ Use hotkey to automatically copy text which is select and translation to target 
 
 ## 链接 Link
 
-**模块链接**
+**模块链接 Module Link**
 
 []()
 
