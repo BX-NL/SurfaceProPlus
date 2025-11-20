@@ -92,7 +92,7 @@ Use hotkey to automatically copy text which is select and translate to the targe
 
 >Add some probably useful tools, softwares, and custom features.
 
-好用的软件 Easy-to-use software
+好用的软件 Useful software
 
 >键盘映射 Mykeymap
 
