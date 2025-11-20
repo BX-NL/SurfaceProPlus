@@ -66,7 +66,7 @@ Work for Surface Book
 
 Kill process which is using discrete graphics card, use to separate the screen or others.
 
->Base on: Python, win32API
+>Base on: Python, win32API, os
 
 **5.快捷翻译 Quick translation**
 
