@@ -34,7 +34,7 @@ Show infos of Surface, CPU used, memory used and etc.
 
 Maybe there were some packages, try to connect it.
 
->Base on: Python, win32API, bashfile, PyQt
+>Base on: Python, win32API, Batchfile, PyQt
 
 **2.屏幕手柄 Screen Gamepad**
 
