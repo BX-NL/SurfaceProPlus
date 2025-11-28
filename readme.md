@@ -86,7 +86,7 @@ Use hotkey to automatically copy text which is select and translate to the targe
 
 **0.其它乱七八糟的东西 Other things**
 
-小工具 Little tools
+小工具 Little Tools
 
 >塞一点可能用得上的工具软件，以及自定义功能。
 
