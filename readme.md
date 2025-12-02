@@ -100,7 +100,7 @@ Use hotkey to automatically copy text which is select and translate to the targe
 
 >尝试接入官方的Surface程序(连到仪表盘?)
 
->Try to connect Surface from offical(try to connect dashboard?)
+>Try to connect Surface from offical(connect to dashboard?)
 
 ---
 
