@@ -82,7 +82,7 @@ Use hotkey to automatically copy text which is select and translate to the targe
 
 >Build the main into API, run one time when it run, run another program to use listen hotkey mode.
 
->Base on: Python, Shell, googletrans (and other translate tools)
+>Base on: Python, Shell, googletrans (and other translate APIs)
 
 **0.其它乱七八糟的东西 Other things**
 
