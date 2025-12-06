@@ -74,7 +74,7 @@ Kill process which is using discrete graphics card, use to separate the screen o
 
 Use hotkey to automatically copy text which is select and translate to the target language, then send a Windows notice and copy the result to the clipboard.
 
->有[TinyTranslator](https://github.com/BX-NL/TinyTranslator)在，需要研究一下触控笔怎么接入使用。
+>有做好的[TinyTranslator](https://github.com/BX-NL/TinyTranslator)在，需要研究一下触控笔怎么接入使用。
 
 >There is [TinyTranslator](https://github.com/BX-NL/TinyTranslator), I need to try how to use the surface pen.
 
