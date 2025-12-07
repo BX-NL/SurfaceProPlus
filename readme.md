@@ -98,9 +98,9 @@ Use hotkey to automatically copy text which is select and translate to the targe
 
 >屏幕触控手势 GestureSign
 
->尝试接入官方的Surface程序(连到仪表盘?)
+>>尝试接入官方的Surface程序(连到仪表盘?)
 
->Try to connect Surface from offical(Connect to dashboard?)
+>>Try to connect Surface from offical(Connect to dashboard?)
 
 ---
 
