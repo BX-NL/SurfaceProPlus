@@ -32,7 +32,7 @@ Show infos of Surface, CPU used, memory used and etc.
 
 可能有现成的模块，尝试接入。
 
-Maybe there were some packages, try to connect it.
+Maybe there were some packages, try to connect them.
 
 >Base on: Python, win32API, Batchfile, PyQt
 
