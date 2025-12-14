@@ -112,7 +112,7 @@ Use hotkey to automatically copy text which is select and translate to the targe
 
 >[TinyTranslator](https://github.com/BX-NL/TinyTranslator)
 
-[]()
+>[]()
 
 **友情链接 Friendly Link**
 
