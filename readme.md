@@ -122,4 +122,4 @@ Use hotkey to automatically copy text which is select and translate to the targe
 
 ## 感谢 Thanks
 
-[碧霄-凝落](https://github.com/BX-NL)
+>[碧霄-凝落](https://github.com/BX-NL)
