@@ -94,7 +94,7 @@ Use hotkey to automatically copy text which is select and translate to the targe
 
 好用的软件 Useful Software
 
->按键映射 Mykeymap
+>按键映射/快捷键增强 Mykeymap
 
 >屏幕触控手势 GestureSign
 
