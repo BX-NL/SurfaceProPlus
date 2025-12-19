@@ -60,7 +60,7 @@ Work for Surface Book
 
 ~~可能用不上，先留个坑位~~
 
-~~It maybe useless, new a package to hold on.~~
+~~It maybe useless, create a package to hold on.~~
 
 结束占用了独显的进程，便于分离或者别的什么需求。
 
