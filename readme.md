@@ -96,7 +96,7 @@ Use hotkey to automatically copy text which is select and translate to the targe
 
 >按键映射/快捷键增强 [Mykeymap](https://xianyukang.com/MyKeymap.html)
 
->屏幕触控手势 GestureSign
+>屏幕触控手势 [GestureSign](https://github.com/TransposonY/GestureSign)
 
 >>尝试接入官方的Surface程序(接到仪表盘?)
 
