@@ -106,7 +106,7 @@ Use hotkey to automatically copy text which is select and translate to the targe
 
 ## 链接 Link
 
-**模块链接 Module Link**
+**模块链接 Modules Link**
 
 >[SurfaceProPlus](https://github.com/BX-NL/SurfaceProPlus)
 
