@@ -84,6 +84,16 @@ Use hotkey to automatically copy text which is select and translate to the targe
 
 >Base on: Python, Shell, googletrans (and other translate APIs)
 
+**6.人脸解锁 FaceToHello**
+
+>使用软件实现Windows Hello解锁。
+
+>缺乏安全性，谨慎使用。
+
+>神必微软不给自家设备上WindowsHello是何意味。
+
+>Base on: Python, OpenCV
+
 **0.其它乱七八糟的东西 Other things**
 
 小工具 Little Tools
